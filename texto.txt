@@ -1,0 +1,24 @@
+Crear un repositorio
+git init
+
+estado repositorio
+git status
+
+añadir todos los archivos al repositorio
+git add . 
+
+commit
+git commit -m ""
+
+añadir un repositorio remoto
+git remote add url
+
+git push //enviar cambios al repositorio remoto
+
+git pull //descargar los cambios al repositorio local
+
+git branch // muestra las branch de git
+
+git branch nombre // añade un branch
+
+git checkout nombre //entrar en una branch
