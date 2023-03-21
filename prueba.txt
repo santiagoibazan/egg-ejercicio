@@ -1,2 +1,3 @@
 branch prueba
 merge i2
+nueva branch creada: prueba2
