@@ -22,3 +22,5 @@ git branch // muestra las branch de git
 git branch nombre // añade un branch
 
 git checkout nombre //entrar en una branch
+
+git show-branch // muesta todas las ramas con sus cimmits
