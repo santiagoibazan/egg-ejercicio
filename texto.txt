@@ -24,3 +24,5 @@ git branch nombre // añade un branch
 git checkout nombre //entrar en una branch
 
 git show-branch // muesta todas las ramas con sus cimmits
+
+git merge <branch> -m "mensaje" // lanzado desde la rama principal lo fusiona con la rama indicada  
